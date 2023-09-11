@@ -15,9 +15,7 @@
 | 新聞網 | 列表擷取 | 內文解析 |
 | -- | -- | -- |
 | [自由時報 (ltn)](./src/news/ltn.py) | Crawler | Sanga |
-| [中國時報 (chinatimes)](./src/news/chinatimes.py) | Crawler | Sanga |
 | [工商時報 (ctee)](./src/news/ctee.py) | API | Sanga |
-| [聯合報 (udn)](./src/news/udn.py) | API | Sanga |
 | [經濟日報 (moneyudn)](./src/news/moneyudn.py) | API | [Customization](./src/news/pages/moneyudn.py) |
 
 ## 擷取操作
